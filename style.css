@@ -52,6 +52,9 @@ button{
   button{
     align-self: center;
     width: 200px;
-}
+  }
+  #resultado{
+    font-size: 28px;
+  }
 }
 
