@@ -46,6 +46,10 @@ button{
 
 @media (max-width: 428px) {
     
+    header{
+        width: 350px;
+    }
+
     #calculoIMC{
     width: 300px;
   }
